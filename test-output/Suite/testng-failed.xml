@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Request_An_Appointment(failed)">
+    <classes>
+      <class name="tests.Find_A_Doctor_TC_02">
+        <methods>
+          <include name="setUp"/>
+          <include name="afterMethod"/>
+          <include name="find_A_Doctor_TC_02"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- tests.Find_A_Doctor_TC_02 -->
+      <class name="tests.Request_An_Appointment_TC_01">
+        <methods>
+          <include name="setUp"/>
+          <include name="beforeMethod"/>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- tests.Request_An_Appointment_TC_01 -->
+    </classes>
+  </test> <!-- Request_An_Appointment(failed) -->
+</suite> <!-- Failed suite [Suite] -->

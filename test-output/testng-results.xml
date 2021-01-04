@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="70409" started-at="2021-01-04T14:10:14Z" finished-at="2021-01-04T14:11:25Z">
+    <groups>
+    </groups>
+    <test name="Request_An_Appointment" duration-ms="70409" started-at="2021-01-04T14:10:14Z" finished-at="2021-01-04T14:11:25Z">
+      <class name="tests.Request_An_Appointment_TC_01">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:tests.Request_An_Appointment_TC_01@146ba0ac]" name="beforeSuite" is-config="true" duration-ms="421" started-at="2021-01-04T19:40:14Z" finished-at="2021-01-04T19:40:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.Request_An_Appointment_TC_01@146ba0ac]" name="setUp" is-config="true" duration-ms="7566" started-at="2021-01-04T19:40:14Z" finished-at="2021-01-04T19:40:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.Request_An_Appointment_TC_01@146ba0ac]" name="beforeMethod" is-config="true" duration-ms="10764" started-at="2021-01-04T19:40:22Z" finished-at="2021-01-04T19:40:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="request_An_Appointment_TC_01()[pri:0, instance:tests.Request_An_Appointment_TC_01@146ba0ac]" name="request_An_Appointment_TC_01" duration-ms="15587" started-at="2021-01-04T19:40:33Z" finished-at="2021-01-04T19:40:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- request_An_Appointment_TC_01 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.Request_An_Appointment_TC_01@146ba0ac]" name="afterMethod" is-config="true" duration-ms="361" started-at="2021-01-04T19:40:48Z" finished-at="2021-01-04T19:40:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.Request_An_Appointment_TC_01@146ba0ac]" name="tearDown" is-config="true" duration-ms="808" started-at="2021-01-04T19:40:49Z" finished-at="2021-01-04T19:40:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:tests.Request_An_Appointment_TC_01@146ba0ac]" name="afterSuite" is-config="true" duration-ms="620" started-at="2021-01-04T19:41:25Z" finished-at="2021-01-04T19:41:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- tests.Request_An_Appointment_TC_01 -->
+      <class name="tests.Find_A_Doctor_TC_02">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.Find_A_Doctor_TC_02@4dfa3a9d]" name="setUp" is-config="true" duration-ms="6639" started-at="2021-01-04T19:40:50Z" finished-at="2021-01-04T19:40:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.Find_A_Doctor_TC_02@4dfa3a9d]" name="beforeMethod" is-config="true" duration-ms="11086" started-at="2021-01-04T19:40:56Z" finished-at="2021-01-04T19:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="find_A_Doctor_TC_02()[pri:0, instance:tests.Find_A_Doctor_TC_02@4dfa3a9d]" name="find_A_Doctor_TC_02" duration-ms="16340" started-at="2021-01-04T19:41:07Z" finished-at="2021-01-04T19:41:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- find_A_Doctor_TC_02 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.Find_A_Doctor_TC_02@4dfa3a9d]" name="afterMethod" is-config="true" duration-ms="344" started-at="2021-01-04T19:41:24Z" finished-at="2021-01-04T19:41:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.Find_A_Doctor_TC_02@4dfa3a9d]" name="tearDown" is-config="true" duration-ms="861" started-at="2021-01-04T19:41:24Z" finished-at="2021-01-04T19:41:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.Find_A_Doctor_TC_02 -->
+    </test> <!-- Request_An_Appointment -->
+  </suite> <!-- Suite -->
+</testng-results>

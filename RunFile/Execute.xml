@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Request_An_Appointment">
+		<classes>
+			<class name="tests.Request_An_Appointment_TC_01" />
+			<class name="tests.Find_A_Doctor_TC_02" />
+		</classes>
+	</test>
+</suite>
